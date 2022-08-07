@@ -1,0 +1,22 @@
+{
+  "name": "typescript_amaliyot",
+  "version": "1.0.0",
+  "description": "Samar Badriddinov amaliyot typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengnorov/Typescript_amaliyot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengnorov/Typescript_amaliyot/issues"
+  },
+  "homepage": "https://github.com/mengnorov/Typescript_amaliyot#readme",
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
